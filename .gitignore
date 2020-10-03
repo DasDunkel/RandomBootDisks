@@ -4,3 +4,6 @@
 # support@dunkelheit.co.uk
 
 # !! removed due to storage limitations !!
+
+*.img
+*.iso
